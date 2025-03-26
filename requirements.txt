@@ -1,5 +1,2 @@
 voila
 ipywidgets
-jupyter
-pandas
-matplotlib
